@@ -1,0 +1,104 @@
+sentence,poss,pr_labels,label
+i sincerely apologize,PRP RB VB,aa qw,fa
+i highly apologize,PRP RB VB,^h aap_am,fa
+i greatly apologize,PRP RB VBP,aap_am ba,fa
+i deeply apologize,PRP VBP VB,^h ba,fa
+i would like to sincerely apologize for,PRP MD VB TO RB VB IN,qy ^h,fa
+i would like to express my sincere apology for,PRP MD VB TO VB PRP$ JJ NN IN,^h aap_am,fa
+i would like to offer a sincere apology for,PRP MD VB TO VB DT JJ NN IN,ba h,fa
+i apologize for not,PRP VBP IN RB,h ad,fa
+i apologize for the confusion,PRP VBP IN DT NN,h ad,fa
+i apologize for what happened,PRP VBP IN WP VBD,h ad,fa
+i apologize for the multiple email,PRP VBP IN DT NN NNS,qw sd,fa
+i apologize for the mistake i made,PRP VBP IN DT NN PRP VBD,ad sd,fa
+i apologize on behalf of the company,PRP VBP IN NN IN DT NN,qy aa,fa
+i apologize for any grammatical error,PRP VBP IN DT JJ NNS,sd aa,fa
+i am sorry for my mistake,PRP VBP RB IN PRP$ NN,sd ba,fa
+i am sorry for my action,PRP VBP RB IN PRP$ NNS,aap_am ba,fa
+i am sorry for messing up,PRP VBP JJ IN VBG RP,sv sd,fa
+i am sorry for any misunderstanding i may have caused,PRP VBP JJ IN DT NN PRP MD VB VBN,^h qy,fa
+i am sorry for disappointing you,PRP VBP JJ IN VBG PRP,qw ad,fa
+i am sorry and apologize for,PRP VBP JJ CC VB IN,ba ad,fa
+i am sorry to bother you again,PRP VBP JJ TO VB PRP RB,sv sd,fa
+i am sorry and sincerely apologize for the inconvenience caused,PRP VBP JJ CC RB VB IN DT NN VBD,^h aap_am,fa
+i am so sorry about this,PRP VBP RB JJ IN DT,qy sd,fa
+i am asking for an apology,PRP VBP VBG IN DT NN,qw sv,fa
+i have to apologize,PRP VBP TO VB,sd sv,fa
+please accept my apology for the mistake,NNP VB PRP$ NNS IN DT NN,qw qy,fa
+please accept my sincere apology for the inconvenience caused,NNP VB PRP$ JJ NNS IN DT NN VBD,ba aa,fa
+please accept my sincere apology for the delay,NN VB PRP$ JJ NNS IN DT NN,h ba,fa
+please accept my apology for the late response,NNP VB PRP$ NNS IN DT JJ NN,sv ^h,fa
+please accept my apology for the short notice,NNP VB PRP$ NNS IN DT JJ NN,aa aap_am,fa
+my apology i forgot to attach,PRP$ NNS PRP VBP TO VB,aap_am qw,fa
+my apology for the mistake,PRP$ NNS IN DT NN,^h ba,fa
+my apology for the delay in sending the document,PRP$ NNS IN DT NN IN VBG DT NN,qw ba,fa
+my apology for the confusion,PRP$ NNS IN DT NN,sd ad,fa
+my apology for overlooking your email,PRP$ NNS IN VBG PRP$ NN,ad sv,fa
+my apology for my absence,PRP$ NNS IN PRP$ NN,aa aap_am,fa
+my apology for the last minute request,PRP$ NNS IN DT JJ NN NN,aap_am ba,fa
+many apology for,JJ NNS IN,ad sd,fa
+utmost apology for,NNP NNS IN,qw ad,fa
+a big apology for,DT JJ NN IN,ba sd,fa
+a formal apology for,DT JJ NN IN,ba ad,fa
+a heartfelt apology for,DT NN NN IN,qw aa,fa
+a personal apology for,DT JJ NN IN,h ^h,fa
+sorry for the typo,NNP IN DT NN,aa ^h,fa
+sorry for the issue,NNP IN DT NN,qw qy,fa
+sorry for the mix up,NNP IN DT NN RP,qy ad,fa
+sorry for my action,NNP IN PRP$ NNS,ba h,fa
+sorry for the mishap,NNP IN DT NN,qy ^h,fa
+sorry for the problem,NNP IN DT NN,aa qw,fa
+sorry for my behaviour,NNP IN PRP$ NN,qy sd,fa
+sorry for the oversight,NNP IN DT NN,aa h,fa
+sorry for bothering you,NNP IN VBG PRP,qw ^h,fa
+sorry for disrespecting you,NNP IN VBG PRP,^h qw,fa
+sorry for my incompetence,NNP IN PRP$ NN,h sv,fa
+sorry for wasting your time,NNP IN VBG PRP$ NN,qw qy,fa
+sorry for the inconvenience,NNP IN DT NN,qy ^h,fa
+sorry for the misunderstanding,NNP IN DT NN,qy h,fa
+sorry for the last minute notice,NNP IN DT JJ NN NN,h ba,fa
+sorry for not getting back to you sooner,NNP IN RB VBG RB TO PRP VB,sv ba,fa
+sorry for the delay in sending the report,NNP IN DT NN IN VBG DT NN,sv aa,fa
+sorry to confuse you,NNP TO VB PRP,h sv,fa
+sorry to inform you late,NNP TO VB PRP JJ,ad qy,fa
+sorry i wa mistaken,NNP PRP VBD VBN,sd qy,fa
+sorry it wa a mistake,NNP PRP VBD DT NN,^h ad,fa
+sorry i said the wrong thing,NNP PRP VBD DT JJ NN,sd ad,fa
+sorry i missed your visit,NNP PRP VBD PRP$ NN,sv h,fa
+sorry i have overlooked your email,NNP PRP VBP VBN PRP$ NN,^h aap_am,fa
+sorry i couldn t attend the meeting,NNP PRP VBP JJ VBP DT NN,ba aap_am,fa
+we sincerely apologize,PRP RB VB,sd h,fa
+we highly apologize,PRP RB VB,^h h,fa
+we greatly apologize for,PRP RB VBP IN,ba aa,fa
+we deeply apologize,PRP VBP VB,qy qw,fa
+we would like to apologize for,PRP MD VB TO VB IN,qy ad,fa
+we apologize for the mistake and the inconvenience,PRP VBP IN DT NN CC DT NN,aa qy,fa
+we apologize for any misunderstanding,PRP VBP IN DT NN,sv ^h,fa
+our apology for the oversight,PRP$ NNS IN DT NN,sd qw,fa
+our apology for the mistake,PRP$ NNS IN DT NN,^h qw,fa
+our sincere apology for,PRP$ JJ NNS IN,sd qy,fa
+please accept our sincere apology for,NNP VB PRP$ JJ NN IN,ba sv,fa
+please accept our apology for any inconvenience caused,NNP VB PRP$ NNS IN DT NN VBD,aap_am qy,fa
+my greatest apology,PRP$ JJS NNS,aap_am qw,fa
+my most sincere apology,PRP$ JJS JJ NNS,aa sd,fa
+i am deeply sorry,PRP VBP RB JJ,qw qy,fa
+i am sincerely sorry,PRP VBP RB JJ,qw aap_am,fa
+i am sorry for my mistake,PRP VBP RB IN PRP$ NNS,qw aa,fa
+i am so sorry for the inconvenience,PRP VBP RB JJ IN DT NN,sv aap_am,fa
+sorry for the trouble,NNP IN DT NN,qy h,fa
+sorry for the hurdle,NNP IN DT NN,h ba,fa
+sorry for pushing,NNP IN VBG,h aap_am,fa
+sorry for informing you late,NNP IN VBG PRP JJ,^h qy,fa
+sorry again,NNP RB,^h h,fa
+sorry if there are any mistake in,NNP IN EX VBP DT NNS IN,aa qy,fa
+apologies again for the inconvenience,NNS RB IN DT NN,h aap_am,fa
+with regret,IN NN,aa sv,fa
+with my apology,IN PRP$ NNS,qy qw,fa
+we would like to apologize in advance for the inconvenience,PRP MD VB TO VB IN NN IN DT NN,qw sd,fa
+we are extremely sorry for the trouble caused,PRP VBP RB JJ IN DT NN VBD,h qw,fa
+we are really sorry for the inconvenience,PRP VBP RB JJ IN DT NN,aa sd,fa
+please accept our apology for the inconvenience,NNP VB PRP$ NNS IN DT NN,qw qy,fa
+we are sorry and apologize for the mistake,PRP VBP JJ CC VB IN DT NN,h qw,fa
+we regret the inconvenience caused,PRP VBP DT NN VBD,aap_am ^h,fa
+our deep and sincere apology,PRP$ JJ CC JJ NNS,ba sd,fa
+once again sorry for the inconvenience caused,RB RB JJ IN DT NN VBD,aap_am sd,fa

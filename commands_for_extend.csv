@@ -1,0 +1,835 @@
+sentence,poss,pr_labels,label
+and confirm that address for me please,CC NN WDT NN IN PRP VB,sd qy,ad
+let me think,VB PRP VB,sv qy,ad
+show your credit card,VB PRP$ NN NN,aa ad,ad
+book that for me,NN IN IN PRP,qw aa,ad
+give me the postcode first of all,VB PRP DT NN RB IN DT,qw qy,ad
+and just confirm the rest of the address please,CC RB VB DT NN IN DT NN NN,aa h,ad
+let me just get that down ok,VB PRP RB VB DT RP NN,aap_am aa,ad
+just check that,RB NN IN,aap_am h,ad
+and confirm the address for me please,CC VB DT NN IN PRP VB,h ^h,ad
+and take your letter of authorisation with you,CC VB PRP$ NN IN NN IN PRP,ad sd,ad
+just bear with me,RB NN IN PRP,ba sd,ad
+hold on a second,NN IN DT JJ,sv ad,ad
+excuse a moment,VB DT NN,h sv,ad
+stick to the date and ti ame that you book,NN TO DT NN CC NN NN IN PRP NN,ba h,ad
+confirm that address for me please,NN WDT NN IN PRP VB,aa sd,ad
+leave it open,VB PRP JJ,qw aa,ad
+let me get it the right way round,VB PRP VB PRP DT JJ NN NN,aa sd,ad
+and confirm that address for me,CC NN WDT NN IN PRP,aa qy,ad
+let me get this right,VB PRP VB DT NN,h qy,ad
+call u back when you are ready,VB PRP RP WRB PRP VBP JJ,h sd,ad
+let is go with that then to for the,NN VBZ VB IN DT RB TO IN DT,qy ba,ad
+hold the line,VB DT NN,^h aap_am,ad
+just hold the line,RB VB DT NN,aa aap_am,ad
+let is go for it,NN VBZ VB IN PRP,ad ^h,ad
+take a coach to from macclesfield to wilmslow,VB DT NN TO IN VBN TO VB,sd aap_am,ad
+remember the test date,VB DT NN NN,sd ad,ad
+live in peace,JJ IN NN,ba ad,ad
+include the required attachements,VBP DT JJ NNS,sv qy,ad
+do not follow me,VB RB VB PRP,ba qw,ad
+do not eat in class,VB RB VB IN NN,sv h,ad
+kill the butterfly,VB DT NN,qy ad,ad
+take me to the library,VB PRP TO DT NN,ba qy,ad
+find out what you like to do most and really give it a whirl,VB RP WP PRP VBP TO VB JJS CC RB VB PRP DT NN,^h sv,ad
+move around town,NN RB NN,aap_am ad,ad
+let take a walk,NNS VBP DT NN,aa qw,ad
+do not stop me now,VB RB VB PRP RB,sd ad,ad
+stop talking now,VB VBG RB,ba qw,ad
+do not smoke in your room,VB RB VB IN PRP$ NN,ba qy,ad
+do not you talk to me like that,VB RB PRP VBP TO PRP IN DT,ad sv,ad
+do not worry be happy,VB RB VB VB JJ,aap_am qw,ad
+eat your veggie,VB PRP$ NNS,qw qy,ad
+let them cool,VB PRP VB,ba aa,ad
+take your coat off,VB PRP$ NN IN,qy aa,ad
+power the world,NN DT NN,qy aap_am,ad
+repair your camera,VB PRP$ NN,ba aa,ad
+write read do what you need,JJ NN VBP WP PRP VBP,h ^h,ad
+do not touch me,VB RB VB PRP,aa h,ad
+mix together sugar and salt,NN RB NN CC NN,qw ad,ad
+lock the door,VB DT NN,qy ^h,ad
+rise against the tyrannical government,NN IN DT JJ NN,qw ad,ad
+driver carefully,NN RB,aap_am aa,ad
+have a safe trip,VB DT JJ NN,ad sv,ad
+bring me a suitcase from my closet,VB PRP DT NN IN PRP$ NN,sd qw,ad
+do not wait for my answer get started right away,VB RB VB IN PRP$ NN NN VBD RB RB,sv h,ad
+give me your full name please,VB PRP PRP$ JJ NN NN,qw sv,ad
+you better be quit,PRP JJR VB NN,ba qw,ad
+eat them with milk,VB PRP IN NN,qy sd,ad
+meet me at the town square,VB PRP IN DT NN NN,^h aap_am,ad
+buy now while supply last,VB RB IN NNS JJ,qy sv,ad
+run for cover,NN IN NN,qw sd,ad
+enjoy some fresh apple,VB DT JJ NNS,sd qw,ad
+start a fire with your bare hand,VB DT NN IN PRP$ NN NNS,^h aap_am,ad
+change your clothes after playing outsi woulde,VB PRP$ NNS IN VBG JJ NN,^h sv,ad
+write an email to your bos,VB DT NN TO PRP$ NN,ad aa,ad
+learn your lesson,VB PRP$ NNS,qw ^h,ad
+mop the floor,VB DT NN,sv qy,ad
+give u the gate key,VB PRP DT NN NN,ad aap_am,ad
+give me a few week i will get back to you when i have ti ame,VB PRP DT JJ NNS VBP MD VB RB TO PRP WRB NNS VBP VBN NN,aap_am ba,ad
+cancel the meeting,VB DT NN,h aap_am,ad
+be nice to your brother,VB JJ TO PRP$ NN,^h aa,ad
+open the window,VB DT NN,ad ba,ad
+keep working,VB NN,aap_am aa,ad
+wait for it,NN IN PRP,ad ^h,ad
+write in irish,NN IN JJ,sd qy,ad
+stand in line,NN IN NN,aa ^h,ad
+live in balance with nature,JJ IN NN IN NN,^h sd,ad
+speak freely and spread the word,NN RB CC VB DT NN,sv sd,ad
+be sure to clean your weapon,VB JJ TO VB PRP$ NN,sv aap_am,ad
+return the slave,VB DT NNS,^h sv,ad
+speak up i can not hear you,VB RP NNS MD RB VB PRP,sd qy,ad
+i would be grateful if you di would not tell anyone about this,NN MD VB JJ IN PRP VBP MD RB VB NN IN DT,qw aa,ad
+i would be grateful if you di wouldnt tell anyone about this,NN MD VB JJ IN PRP VBP JJ VBP NN IN DT,qw ad,ad
+you watch your mouth young man,PRP VBP PRP$ NN JJ NN,^h aap_am,ad
+tell her i need her right now,VB PRP$ NN VBP PRP$ NN RB,^h sv,ad
+make me a cup of tea,VB PRP DT NN IN NN,sv ad,ad
+have a coke and a smile,VB DT NN CC DT NN,aap_am aa,ad
+do not go out on the ice,VB RB VB RP IN DT NN,qy ad,ad
+have fun at the fair tonight,VB NN IN DT JJ NN,ad sd,ad
+have a break,VB DT NN,sd ad,ad
+buy a kitkat,VB DT NN,^h qw,ad
+get out of my way,VB IN IN PRP$ NN,qy h,ad
+stop playing with your food,VB NN IN PRP$ NN,aap_am sv,ad
+lead the pack,VB DT NN,aap_am qy,ad
+please lower your voice,VB JJR PRP$ NN,^h aap_am,ad
+cancel the order,VB DT NN,qy qw,ad
+help the poor,VB DT JJ,qw ad,ad
+first boil some water,RB VB DT NN,sd aap_am,ad
+pas the bowl of potato,NN DT NN IN NNS,aap_am ^h,ad
+sit be quite,NN VB RB,^h qw,ad
+feed the hungry,VB DT NN,sv aap_am,ad
+have fun tonight,VB NN NN,qy qw,ad
+put the cake out to cool,VBD DT NN IN TO VB,h ad,ad
+please be quit,NN VB NN,aa aap_am,ad
+take if you must this little bag of dream,VB IN PRP MD DT JJ NN IN NNS,sv sd,ad
+report on what you find,NN IN WP PRP VBP,^h ad,ad
+love your enemy,VB PRP$ NNS,sd qw,ad
+work to achive the goal,NN TO VB DT NNS,ba ^h,ad
+let this generation have theirs,VB DT NN VBP NNS,ad qw,ad
+enjoy your meal,VB PRP$ NN,qw aap_am,ad
+be kind for everyone you meet is fighting a hard battle,VB NN IN NN PRP VBP VBZ VBG DT JJ NN,aa sv,ad
+shop without me,NN IN PRP,sv h,ad
+carry by hand gun,NN IN NN NN,sd h,ad
+do not eat my grape,VB RB VB PRP$ NNS,aa ba,ad
+feel free to text me later,VB JJ TO VB PRP RB,sv sd,ad
+speak in spanish,NN IN JJ,^h ba,ad
+heat the pan with oil,NN DT NN IN NN,qy ^h,ad
+take note while listening,VB NNS IN VBG,h sd,ad
+choose the german sheperd over the huskey,VB DT JJ NN IN DT NN,^h aap_am,ad
+please find my yellow leotard,NN VB PRP$ JJ NN,sv ad,ad
+do not press that button,VB RB VB IN NN,qy qw,ad
+launch the missles,NN DT NNS,sd qy,ad
+then pour the water into a cup,RB VBZ DT NN IN DT NN,aa ad,ad
+cut out the cooky with a cookie cutter,VBN RP DT NNS IN DT NN NN,aap_am ad,ad
+do not eat the cooky,VB RB VB DT NNS,sv sd,ad
+remember to wash under your armpit is,VB TO VB IN PRP$ NN VBZ,^h aa,ad
+let the cooky brown before taking them out,VB DT NNS VBN IN VBG PRP RP,ad aa,ad
+call the doctor,VB DT NN,qw qy,ad
+take me home,VB PRP NN,qy sd,ad
+enrich the poor,IN DT JJ,aap_am sd,ad
+consi woulder the red dress,NN VBZ DT JJ NN,sd aa,ad
+watch the vi wouldeos and report back,VB DT NN NN CC NN RB,qw qy,ad
+do not take thing too seriously,VB RB VB NNS RB RB,sd sv,ad
+come with me,NN IN PRP,^h h,ad
+unloose the cord and they will wrap you round,VB DT NN CC PRP MD VB PRP VB,aa h,ad
+put down the spoon,VB RP DT NN,sd sv,ad
+wait for me,NN IN PRP,h ad,ad
+tell me what you think,VB PRP WP PRP VBP,sv aap_am,ad
+let take a walk on the wild si woulde,NNS VBP DT NN IN DT JJ NN NN,qw sd,ad
+paint the door,NN DT NN,qy ad,ad
+look for the painted lady,NN IN DT JJ NN,qw sd,ad
+cure the sick,NN DT NN,qy sv,ad
+throw the ball,VB DT NN,^h aa,ad
+shop on sunday,NN IN NNS,sv ba,ad
+silence please,NN NN,h qy,ad
+swich off your cell phone,VB RP PRP$ NN NNS,aap_am ^h,ad
+turn off your phone,VB RP PRP$ NNS,ba ad,ad
+remove any battery from your luggage,VB DT NNS IN PRP$ NN,ba aap_am,ad
+do not text me,VB RB VB PRP,aa qw,ad
+do not beat hi am,VB RB VB NNS VBP,ad aap_am,ad
+do not waste your ti ame,VB RB VB PRP$ NN NN,qw sd,ad
+after that add a little milk,IN DT VBZ DT JJ NN,ad qy,ad
+may i suggest the black suit,MD VB VBP DT JJ NN,h ad,ad
+put down the knife,VB RP DT NN,qw sv,ad
+eat log of popcorn,JJ NNS IN NN,qw aa,ad
+black me out,JJ PRP RP,sd h,ad
+play the guitar for me,VB DT NN IN PRP,aap_am sv,ad
+let is face it,NN VBZ VB PRP,qy sv,ad
+let face it,NNS VBP PRP,ba aap_am,ad
+do take a seat,VB VB DT NN,sd sv,ad
+please hand me the key,NN NN PRP DT NNS,qw qy,ad
+work in pair,NN IN NNS,sd sv,ad
+please ti wouldy up your room,VB NN WRB RP PRP$ NN,qy aa,ad
+fetch a glass of water,VB DT NN IN NN,sd ba,ad
+complete the exercies,VB DT NNS,ad qy,ad
+tack the package before you leave,NN DT NN IN PRP VBP,sv ad,ad
+slice the apple,NN DT NN,aa aap_am,ad
+open the back door,VB DT JJ NN,sd sv,ad
+question everything,NN NN,aa qy,ad
+join our table during the wedding,VB PRP$ NN IN DT NN,qw qy,ad
+play nice in the sandbox,NN RB IN DT NN,sd ^h,ad
+roll out your cookie dough,NN RP PRP$ NN NN,sv h,ad
+do not forget to take your passport with you,VBP RB VB TO VB PRP$ NN IN PRP,aap_am h,ad
+forget all about it,VB DT IN PRP,aap_am h,ad
+do not steal the cooky from the cookie jar,VB RB VB DT NNS IN DT NN NN,aap_am ^h,ad
+please send the nurse in,VB VB DT NN IN,qw aap_am,ad
+tell me the story of your life,VB PRP DT NN IN PRP$ NN,aa ^h,ad
+stir in the coffee,NN IN DT NN,aa qw,ad
+do not bear false witness against thy neighbor,VB RB VB JJ NN IN JJ NN,ad aa,ad
+do not stay out too late,VB RB VB RB RB JJ,sd aap_am,ad
+switch off the ac,VB RP DT NN,h ^h,ad
+listen to the audio,NN TO DT NN,qy h,ad
+keep your cell phone or laptop closed,VB PRP$ NN NNS CC NNS VBD,sv aa,ad
+move out of the way,NN IN IN DT NN,sv aap_am,ad
+try to skip the first step,NN TO VB DT JJ NN,sd aap_am,ad
+please join my wife and i for dinner,NN VB PRP$ NN CC NN IN NN,aap_am h,ad
+all trading should occur on the nile,DT NN MD VB IN DT NN,ba ad,ad
+fake it or make it,VB PRP CC VB PRP,qw aa,ad
+clean the desk,VB DT NN,aap_am ^h,ad
+have a piece of cake,VB DT NN IN NN,h sd,ad
+move quickly,NN RB,h qw,ad
+write a letter to the warden,VB DT NN TO DT NN,qw aa,ad
+come on mary i am waiting,VBN IN JJ NN VBP VBG,ad ba,ad
+come to the ball with me,VBN TO DT NN IN PRP,h aa,ad
+do not turn left on red,VB RB VB VBN IN JJ,ad qw,ad
+play the song mercy me by alkaline trio,VB DT NN VB PRP IN NN NN,aa qy,ad
+go up to the board,VB RP TO DT NN,qw aa,ad
+do not forget me,VBP RB VB PRP,h ^h,ad
+launch firefox,NN NN,qy ba,ad
+complete these by tomorrow,JJ DT IN NN,qy aap_am,ad
+always remember who your bos is,RB VB WP PRP$ NN VBZ,ba ad,ad
+come with me to church,NN IN PRP TO VB,aap_am qw,ad
+continue to deliver on your obligation,NN TO VB IN PRP$ NNS,sd sv,ad
+play me a tune from your trumpet,VB PRP DT NN IN PRP$ NN,ba ^h,ad
+do not make a noise,VBP RB VB DT NN,qy aa,ad
+take your medicine,VB PRP$ NNS,h ba,ad
+fetch me a glass of water,VB PRP DT NN IN NN,h aap_am,ad
+write your name on the exam,VB PRP$ NN IN DT NN,aa ba,ad
+pause the song,IN DT NN,ad sd,ad
+do not look back,VB RB VB RB,sd aap_am,ad
+eat the lunch full,VB DT NN JJ,qy ^h,ad
+wash your hand before eating,VB PRP$ NNS IN VBG,qy qw,ad
+stop the bus,VB DT NN,h sv,ad
+do not miss your class,VB RB VB PRP$ NN,sd sv,ad
+finish your task,VB PRP$ NN,sd ^h,ad
+promise that you will do what you need to do,NN IN PRP MD VB WP PRP VBP TO VB,h sv,ad
+march forward,NN NN,aap_am ba,ad
+walk to the corner turn left and cross the road,NN TO DT NN NN VBD CC VB DT NN,^h qw,ad
+try again next ti ame,VB RB JJ NN NN,^h sd,ad
+complete these file by tomorrow,JJ DT NNS IN NN,ba ad,ad
+write a text to your wife,VB DT NN TO PRP$ NN,qy ^h,ad
+let them eat cake,VB PRP VB NN,ba ^h,ad
+use this website,NN DT NN,sd qy,ad
+retreat to england,NN TO VB,ad aa,ad
+shut the door,VB DT NN,ba sv,ad
+remember what it is worth to you,VB WP PRP VBZ JJ TO PRP,sd sv,ad
+play the song alive by i ama robot,VB DT NN JJ IN JJ NN NN,^h ba,ad
+play hard work hard,VB JJ NN RB,sv qw,ad
+stay alive and avoi would zombie,NN JJ CC NN MD VB,aa h,ad
+come out with u tonight,VBN RP IN PRP VBP,qw aa,ad
+do not ever speak to me like that again,VB RB RB VB TO PRP IN DT RB,ad h,ad
+poison the water supply,NN DT NNS VBP,aa ba,ad
+always play where i can see you,RB VB WRB NN MD VB PRP,h qy,ad
+change the dirty diaper,NN DT NN NNS,ad aa,ad
+always remember the person who ha been nice to you,RB VB DT NN WP VBZ VBN JJ TO PRP,sv ba,ad
+do good at school,VB JJ IN NN,aa ad,ad
+close the door please,RB DT NN NN,aap_am ba,ad
+fold the blanket,VB DT NN,aap_am sd,ad
+rai would the berber people,NN MD DT NN NNS,qy h,ad
+make chocolate chip cooky for christmas,VB NN NN NNS IN NN,ba ad,ad
+turn right on red,NN NN IN JJ,sd ba,ad
+honor your father and your mother,VB PRP$ NN CC PRP$ NN,qw ba,ad
+hand over the assignment,NN IN DT NN,aa sv,ad
+meet me outsi woulde the venue,VB PRP PRP VBD DT NN,aa ba,ad
+switch on the fan please,NN IN DT NN NN,ad aap_am,ad
+write your personal manifesto,VB PRP$ JJ NN,ba h,ad
+note it down,NN PRP RP,qw sv,ad
+respect the elder,VB DT NNS,ba sd,ad
+turn on the radio,NN IN DT NN,sv qw,ad
+let the rack dry,VB DT NN NN,qw qy,ad
+play the song test,VB DT NN NN,aa h,ad
+please go on reading,NN VB IN NN,sd h,ad
+let the water boil for at least fifteen minute,VB DT NN NN IN IN JJS JJ NNS,aap_am qw,ad
+watch your step,VB PRP$ NN,qy aap_am,ad
+do exercise daily,VBP DT NN,sd qy,ad
+exercise daily,NN NN,aa ba,ad
+redo the translation,VB DT NN,^h sd,ad
+assist in the discovery,NN IN DT NN,aap_am aa,ad
+flip the table,VB DT NN,aap_am aa,ad
+consi woulder the lily,NN VBP DT NN,ad ^h,ad
+invade france from the north,JJ NN IN DT NN,qw sd,ad
+stop eating too much,VB VBG RB JJ,^h sv,ad
+do not tease hi am,VB RB VB NN VBP,qw aa,ad
+do not be late for dinner,VB RB VB RB IN NN,qy ba,ad
+this is mandatory,DT VBZ JJ,h aap_am,ad
+check your email,VB PRP$ NN,h aap_am,ad
+boil the turkey in vinegar,NN DT NN IN NN,ba ad,ad
+do not drink,VB RB VB,qy ad,ad
+steep turn go slow,JJ NN VBP JJ,sv qw,ad
+open firefox,JJ NN,qw ba,ad
+shoot straight,NN VBD,ba ^h,ad
+turn off the radio,VB RP DT NN,^h ba,ad
+clean the bathroom,VB DT NNS,aap_am sv,ad
+meet back here after shopping,NN RB RB IN VBG,qw aa,ad
+drink is cool with honey,NN VBZ JJ IN NN,h ^h,ad
+skip this song,NN DT NN,ba sd,ad
+redo all the work,VB PDT DT NN,qw sd,ad
+call me maybe,VB PRP RB,^h aa,ad
+take a note,VB DT NN,sd sv,ad
+keep hanky in pocket,VB NN IN NN,ad aap_am,ad
+go back to mississippi,VB RB TO VB,ba ad,ad
+tell her you di would not do it,VB PRP$ PRP VBP MD RB VB PRP,^h qw,ad
+listen closely my friend,RBR RB PRP$ NNS,h ^h,ad
+never speak to me like that again,RB NN TO PRP IN DT RB,sd qw,ad
+help in the arrest,NN IN DT NN,sd ba,ad
+drink a bourbon,VB DT NN,qw aa,ad
+load your weapon,RB PRP$ NN,ad aap_am,ad
+please close the door,NN VB DT NN,aap_am ba,ad
+wake me up on the weekend,VB PRP RP IN DT NN,ad aa,ad
+study hard for the math exam,VB JJ IN DT NN NN,ba sv,ad
+keep your friend close but your enemy closer,VB PRP$ NNS RB CC PRP$ NNS RBR,aap_am ad,ad
+launch google,NN NN,sv ba,ad
+drive to the roundabout and then turn left,NN TO DT NN CC RB VB RP,h aa,ad
+collect nice book,JJ JJ NNS,ba qy,ad
+work hard play hard,NN JJ NN RB,h ^h,ad
+apply the glue thinly and leave it for ten minute,VB DT NN RB CC VB PRP IN NN NNS,qy aap_am,ad
+keep an eye on the ti ame,VB DT NN IN DT NN NN,^h ba,ad
+leave the class,VB DT NN,ba sd,ad
+switch off the light,VB RP DT NNS,aap_am sv,ad
+pas the book please,NN DT NN NN,sv ad,ad
+please grill the sandwich,NN VB DT NN,qw qy,ad
+maintain silence,NN NN,h ba,ad
+do not let the light get turned on,VB RB VB DT NNS VBP VBN IN,sv ba,ad
+let the dog out for play,VB DT NN RP IN NN,qw aa,ad
+reach for the sky,NN IN DT NN,^h qy,ad
+stop the track,VB DT NN,h qw,ad
+slap the naughty boy,VB DT NN NN,h ^h,ad
+you need not give me a lift i will go by train,PRP VBP RB VB PRP DT NN NN MD VB IN NN,aa qw,ad
+overhaul the passage,IN DT NNS,sd ^h,ad
+do not left turn,VB RB VB NN,qw aa,ad
+remember the sabbath day by keeping it holy,VB DT NN NN IN VBG PRP NN,qy aap_am,ad
+do not think about the future,VBP RB VB IN DT NN,aap_am ba,ad
+stop feeding the lion,VB VBG DT NNS,aap_am qw,ad
+drink a port,VB DT NN,ad aa,ad
+fill in the blank,NN IN DT NNS,sv ad,ad
+do not turn,VB RB VB,ad qy,ad
+write an email to austin saying you are the best,VB DT NN TO VB VBG PRP VBP DT JJS,h sv,ad
+write an email to austin saying youre the best,VB DT NN TO VB VBG PRP DT JJS,^h ad,ad
+crouch under the wall then sli woulde under,JJ IN DT NN RB VBD NNS IN,^h ba,ad
+complete a u turn,VB DT JJ NN,aap_am ^h,ad
+have a safe journey,VB DT JJ NN,aap_am sd,ad
+iron the shirt,NN DT NN,qy ^h,ad
+call me tomorrow,VB PRP NN,aap_am ^h,ad
+listen before you speak,NN IN PRP VBP,aa ad,ad
+do not come home late,VB RB VB NN RB,qw sd,ad
+wear your gold necklace with that dress,IN PRP$ NN NN IN DT NN,qy ^h,ad
+swing hard johnny,VBG JJ NN,qw aap_am,ad
+find the document titled test,VB DT NN VBD NN,ba sd,ad
+wake me up when suptember end,VB PRP RP WRB NN NNS,aap_am qw,ad
+summarize the news for me,VB DT NN IN PRP,aa sv,ad
+smile for the camera,NN IN DT NN,aap_am sv,ad
+complete the photo shoot,VB DT NN NN,aa ^h,ad
+launch safari,NN NN,qy ba,ad
+check if the laundry is dry,NN IN DT NN VBZ JJ,qy qw,ad
+fold your laundry,RB PRP$ NN,^h ba,ad
+let it occur then arrest them,VB PRP VB RB VB PRP,sd h,ad
+walk for the mini amum,NN IN DT NN NN,h qw,ad
+clean the si wouldewalk,VB DT NN NN,^h sd,ad
+call your parent on sunday,VB PRP$ NNS IN NN,aa ad,ad
+discover the fall of the roman empire,VB DT NN IN DT NN NN,qw ^h,ad
+go back to alabama,VB RB TO VB,qy ad,ad
+may god bless you,MD VB NN PRP,sv ba,ad
+cook the steak well done,VB DT NN RB VBN,ba qw,ad
+turn on the kitchen light,NN IN DT NN NN,h sd,ad
+talk to the hand,NN TO DT NN,sv ad,ad
+stop feeding the dog from the table,VB VBG DT NN IN DT NN,h ba,ad
+come around and see me some ti ame,VBN IN CC VB PRP DT NN NN,^h h,ad
+save our soul,VB PRP$ NNS,ad ^h,ad
+hit the ball,VB DT NN,qy ba,ad
+use the big red nipple to move around,IN DT JJ JJ NN TO VB IN,aap_am aa,ad
+complete all your work or else,JJ DT PRP$ NN CC RB,^h ba,ad
+please leave,NN VB,^h qw,ad
+fezzik tear his arm off,NN VB PRP$ NNS RP,aap_am qw,ad
+extract the information you can,VB DT NN PRP MD,aap_am ^h,ad
+get to bed on ti ame,VB TO VB IN NN NN,h sd,ad
+skip to the next track,NN TO DT JJ NN,qy ad,ad
+find the document called google,VB DT NN VBN NN,qw sd,ad
+get vaccinated before the age of twelve month,NN VBN IN DT NN IN JJ NNS,sd aap_am,ad
+stir toegether flour baking soda and baking powder,NN CC NN NN NN CC NN NN,^h ad,ad
+talk to me about dan,NN TO PRP IN NN,aa qw,ad
+write an email to john saying this is a test email,VB DT NN TO VB VBG DT VBZ DT NN NN,aa ba,ad
+ask question if you have any,VB NN IN PRP VBP DT,ad sv,ad
+eat something,NN NN,aa sd,ad
+do your worst to me,VB PRP$ JJS TO PRP,^h qw,ad
+drink lot of water,VB NNS IN NN,aa aap_am,ad
+bring that to me,NN DT TO PRP,qy sv,ad
+find the lost treasure,VB DT JJ NN,aa qy,ad
+go back to south carolina go back to georgia,VB RB TO VB NN VB RB TO VB,sd ba,ad
+give me a new tv,VB PRP DT JJ NN,ad ^h,ad
+turn left at the intersection,NN VBD IN DT NN,sd qw,ad
+do not honk,VB RB VB,ad qw,ad
+show me email from austin,VB PRP NNS IN NN,aa qw,ad
+do not make the naughty list,VBP RB VB DT JJ NN,h ad,ad
+turn off the living room light,VB RP DT NN NN NNS,sv aap_am,ad
+cross the pedestrian lane do not jay walk,NN DT JJ NN VBP RB VB NN,ba qy,ad
+complete mowing the lawn,JJ VBG DT NN,qw aap_am,ad
+crack the game,NN DT NN,qw ^h,ad
+sit in a semicircle,NN IN DT NN,qw h,ad
+put your hand into the bag,VB PRP$ NN IN DT NN,h aa,ad
+break a leg,VB DT NN,sv qy,ad
+tell me about the weather,VB PRP IN DT NN,sv qw,ad
+do not eat all the cooky,VB RB VB PDT DT NNS,^h qy,ad
+keep calm and carry on,VB NN CC NN IN,aap_am ad,ad
+honk if you like my driving,NN IN PRP VBP PRP$ NN,aap_am ba,ad
+stop yelling,NN NN,qy h,ad
+become who you need to be,NN WP PRP VBP TO VB,aa ad,ad
+please ti wouldy your room,VB JJ VB PRP$ NN,aa qw,ad
+run for your life,VB IN PRP$ NN,aap_am ba,ad
+go back to louisiana,VB RB TO VB,^h aa,ad
+pour me a glass of bourbon,VB PRP DT NN IN NN,h sv,ad
+play me a short clip,VB PRP DT JJ NN,^h h,ad
+i amprove yourself or kiss yourself goodbye,NN VBP PRP CC VB PRP VB,aap_am sv,ad
+be there at five,VB EX IN CD,^h ba,ad
+roll the dice,VB DT NNS,h ^h,ad
+go to bed early,VB TO VB JJ,aa sv,ad
+close your eye when you run away,RB PRP$ NNS WRB PRP VBP RB,sv qw,ad
+leave me here alone to collect my thing,VB PRP RB RB TO VB PRP$ NNS,aap_am qw,ad
+eat your popcorn,VB PRP$ NN,ad aa,ad
+lend me a dollar,VB PRP DT NN,qw sd,ad
+please open the door would you?,VB VB DT NN MD VB,sd qy,ad
+please open the door would you,VB VB DT NN MD PRP,sv ^h,ad
+crack your iphone,VB PRP$ NN,qy ba,ad
+do not trouble the child,VB RB NN DT NNS,h sv,ad
+shut the front door,VB DT NN NN,sv aap_am,ad
+complete your work on sunday,VB PRP$ NN IN NN,^h qw,ad
+clear this room by tomorrow morning,JJ DT NN IN NN NN,aa aap_am,ad
+turn the record over,VB DT NN IN,h qw,ad
+pack enough food for our adventure,RB RB NN IN PRP$ NN,sd ba,ad
+ask for more work when you are done,NN IN JJR NN WRB PRP VBP VBN,aap_am aa,ad
+do what i tell you to do,VB WP VB VBP PRP TO VB,sd ^h,ad
+tell me whats in your wallet,VB PRP NNS IN PRP$ NN,sv ad,ad
+delete a much a you can,NN RB RB IN PRP MD,h sd,ad
+give me a robert heinlein quot,VB PRP DT JJ NN NN,aa h,ad
+find the remote,VB DT NN,ad qy,ad
+do not feed the dog,VB RB VB DT NN,ad sd,ad
+have a good day,VB DT JJ NN,ad aap_am,ad
+shut up brain or i will stab you with a qtip,VBN RP NN CC NN MD VB PRP IN DT NN,sd h,ad
+shut up brain or ill stab you with a qtip,VBN RP NN CC VB NN PRP IN DT NN,aa qy,ad
+please join me at the after party,NN VB PRP IN DT IN NN,qw aa,ad
+be kind to your neighbor,VB NN TO PRP$ NNS,aa qw,ad
+plant enough tree for the summer,NN JJ NNS IN DT NN,ad aa,ad
+come over here let me show you,NN IN RB VB PRP VB PRP,h ^h,ad
+let is go out together,NN VBZ VB RP RB,h ad,ad
+let go out together,NNS VBP RP RB,qw sv,ad
+bring me my gun,VB PRP PRP$ NN,^h qw,ad
+complete the model vali wouldation,VB DT NN NN NN,h ad,ad
+move out of my way,NN IN IN PRP$ NN,sd aa,ad
+leave the package at the door,VB DT NN IN DT NN,sd aa,ad
+order a new phone,NN DT JJ NN,qw aap_am,ad
+please join me for dinner tonight,NN VB PRP IN NN NN,qy aap_am,ad
+use oil in the pan,NN NN IN DT NN,h qy,ad
+stop beating the cat,VB VBG DT NN,qy aa,ad
+choose wisely my friend,NN RB PRP$ NN,sd ad,ad
+show me email from tom,VB PRP VB IN NN,qy ad,ad
+stop cry over spilt milk,NN NN IN JJ NN,sd ba,ad
+say my name again,VB PRP$ NN RB,ad ba,ad
+do not stall,VB RB VB,h sv,ad
+change the lightbulb,NN DT NN,qy ^h,ad
+i need you to sit down now,NNS VBP PRP TO VB RP RB,aap_am ba,ad
+please be quite in the library,NN VB RB IN DT NN,qy qw,ad
+make sure to pack warm clothes,VB JJ TO VB JJ NNS,^h qy,ad
+pas the salt,NN DT NN,sv ^h,ad
+do not lose control,VB RB VB NN,aap_am ^h,ad
+remove all the lock,VB PDT DT NNS,ad ^h,ad
+become a better person,VB DT JJR NN,aa aap_am,ad
+do not scare me like that,VB RB VB PRP IN DT,aap_am qw,ad
+let hi am cool down then ask about the inci wouldent,VB PRP VBP JJ RB RB VB IN DT NN NN,aap_am h,ad
+choose your battle,VB PRP$ NNS,ad sd,ad
+tell u the lie,VB PRP DT NNS,ba qy,ad
+give me the gun,VB PRP DT NN,aap_am qw,ad
+tell the truth the whole truth and nothing but the truth,VB DT NN DT JJ NN CC NN CC DT NN,sv h,ad
+wash your shirt,VB PRP$ NNS,h ba,ad
+paint a big wi woulde smile,NN DT JJ NN NN NN,sd h,ad
+do not forget to feed the goldfish,VBP RB VB TO VB DT NN,sv qw,ad
+do not lose your way,VB RB VB PRP$ NN,qy sv,ad
+do not forget to change your oil,VBP RB VB TO VB PRP$ NN,qy qw,ad
+bake a cake,VB DT NN,qw ad,ad
+come by after dark,VBN IN IN NN,^h ad,ad
+please join u for breakfast,VB VB PRP IN NN,sv aap_am,ad
+season the cast iron pan,NN DT NN NN NN,sd aa,ad
+do not enter,VB RB VB,sv h,ad
+drive slowly,NN NN,qw aap_am,ad
+listen to your teacher,NNS TO PRP$ NN,qw ba,ad
+visit u in the hospital after the baby is born,NN PRP IN DT NN IN DT NN VBZ VBN,^h aa,ad
+delete all my notification,NN DT PRP$ NNS,aap_am qy,ad
+change regularly,NN RB,^h ad,ad
+turn on the light so it is not dark,NN IN DT NNS IN PRP VBZ RB JJ,^h aa,ad
+find me an expert in postgresql,VB PRP DT NN IN NN,ba qw,ad
+taste the feeling,NN DT NN,aap_am ba,ad
+push me away i will push you away,NN PRP RP NN MD VB PRP RB,aa h,ad
+push me away ill push you away,NN PRP RB VBP NN PRP RB,h ^h,ad
+finish your jira task,VB PRP$ NN NNS,^h qw,ad
+put that down now,NN IN RB RB,qy aa,ad
+write a blog post on google search,VB DT NN NN IN NN NN,qy qw,ad
+tell me a holi wouldy li americk,VB PRP DT JJ NN NN NN,qy ad,ad
+have a good morning,VB DT JJ NN,h sv,ad
+come back with their head,VBN RB IN PRP$ NN,aap_am h,ad
+raise your hand and turn around,VB PRP$ NN CC NN RP,ad aa,ad
+do your chore,VB PRP$ NNS,h ^h,ad
+heat the house so you do not freeze,NN DT NN IN PRP VBP RB VB,aa h,ad
+be careful about what you say,VB JJ IN WP PRP VBP,sd sv,ad
+save the child,VB DT NNS,qy sd,ad
+do not go anywhere,VB RB VB RB,ba ^h,ad
+aristotle eleveate the matter,JJ VBP DT NN,aap_am ba,ad
+compose your atom with proton and neutron,VB PRP$ NNS IN NNS CC NNS,h sd,ad
+keep reading,VB NN,ad ^h,ad
+run forest run,VB JJS NN,^h ba,ad
+find me an expert in ruby,VB PRP DT NN IN NN,ba sv,ad
+find me an expert in python,VB PRP DT NN IN NN,sd qw,ad
+buy me some ti ame,VB PRP DT NN NN,aap_am sv,ad
+find a python developer,VB DT NN NN,h qw,ad
+search for a scala developer,NN IN DT NN NN,ad ^h,ad
+spy on all developer,NN IN DT NNS,qw sd,ad
+blind everyone with your smile,IN NN IN PRP$ NN,qw aa,ad
+cremate me when i die,VB PRP WRB NN VBP,h qw,ad
+wear your coat,IN PRP$ NN,ad sd,ad
+work on your own,NN IN PRP$ JJ,^h sd,ad
+give me an easter egg,VB PRP DT NN NN,h qw,ad
+save the date,VB DT NN,sv aa,ad
+write a blog post on sentence type classification,VB DT NN NN IN NN NN NN,h sv,ad
+reboot the computer,NN DT NN,aap_am ba,ad
+reboot the router,NN DT NN,^h qw,ad
+reboot the laptop,NN DT NN,ad ^h,ad
+come over after your shift,VBN IN IN PRP$ NN,sv qy,ad
+reboot the phone,VB DT NN,aap_am qy,ad
+turn off airplane mode,VB RP NN NN,qy qw,ad
+turn on the microphone,NN IN DT NN,aap_am aa,ad
+turn on airplane mode,NN IN NN NN,aa qy,ad
+turn on bluetooth,NN IN NN,^h qw,ad
+turn off bluetooth,VB RP DT,^h aap_am,ad
+create a new account when if you are hacked,VB DT JJ NN WRB IN PRP VBP VBN,aa ad,ad
+turn on wifi,NN IN NN,ba aap_am,ad
+watch the fire burn out,VB DT NN NN RP,aa qy,ad
+turn off the wifi,VB RP DT NN,h aap_am,ad
+create value or leave,NN NN CC VB,ad qw,ad
+walk the line,VB DT NN,aap_am qw,ad
+breathe in the smoke,NN IN DT NN,^h aap_am,ad
+pick the nicest thing you can think of,VB DT JJS NN PRP MD VB IN,sd qy,ad
+walk back to chicago,NN RB TO VB,ba sv,ad
+wake up in the morning,VB RP IN DT NN,aa sv,ad
+do not choke,VB RB VB,sd aa,ad
+say i love you,VB NNS VBP PRP,ba qw,ad
+love me too,VB PRP RB,h ad,ad
+jump on the count of three,NN IN DT NN IN CD,h ad,ad
+save the dog if you can,VB DT NN IN PRP MD,ba qy,ad
+bury your dog under the tree,VB PRP$ NN IN DT NN,sv qy,ad
+add all the file tomorrow,VB PDT DT NNS NN,qw qy,ad
+do not run from a fight,VB RB VB IN DT NN,aa ad,ad
+add your comment to the document,VB PRP$ NNS TO DT NN,aap_am ^h,ad
+edit the document adding our comment,NN DT NN VBG PRP$ NNS,ad aap_am,ad
+chop the carrot,VB DT NNS,sv aap_am,ad
+join all the comment together,NN PDT DT NNS RB,ba h,ad
+come into my home,VBN IN PRP$ NN,qy aap_am,ad
+get up stand up stand up for your right,VB RP VB RP VB RP IN PRP$ NNS,aap_am aa,ad
+get up stand up do not give up the fight,VB RP VB RP VB RB VB RP DT NN,ba aap_am,ad
+join the war effort,VB DT NN NN,h aa,ad
+mix flour and water,VB NNS CC NNS,sd h,ad
+break the egg,VB DT NNS,aa sd,ad
+cook the egg,VB DT NNS,qw ^h,ad
+whisper when you tell me that,NN WRB PRP VBP PRP IN,qy sv,ad
+eat the egg,VB DT NNS,h qy,ad
+check the current value before purchasing,VB DT JJ NN IN VBG,aap_am aa,ad
+skip what you can,VB WP PRP MD,aap_am ad,ad
+save what you will,VB WP PRP MD,sd sv,ad
+save all the data,VB PDT DT NNS,sd h,ad
+swing the golf club harder next ti ame,VBG DT NN NN NN JJ NN NN,qy aa,ad
+request data,NN NNS,h sd,ad
+request what you can,VB WP PRP MD,aap_am h,ad
+bury the body out back,NN DT NNS RP RB,aa aap_am,ad
+skip annoying song,NN VBG NNS,h qy,ad
+select a winner then rank order the loser,VB DT NN RB VBD NN DT NNS,qy ad,ad
+raise your hand before you ask a question,VB PRP$ NN IN PRP VBP DT NN,ba aa,ad
+unmute the device,IN DT NN,aap_am ba,ad
+do what you need to do to survive,VB WP PRP VBP TO VB TO VB,^h sd,ad
+set phasers to kill,NN NNS TO VB,qw sv,ad
+speak to me with a british accent,NN TO PRP IN DT JJ NN,ba ^h,ad
+mute the chat,VB DT NN,ad sd,ad
+show me the money,VB PRP DT NN,aap_am qy,ad
+fill up my gas tank before you come home,VB RP PRP$ NN NN IN PRP VBP NN,sd sv,ad
+slice the steak into small piece,NN DT NN IN JJ NNS,^h qw,ad
+open the app,VB DT NN,sd aap_am,ad
+show me movie ti ames,VB PRP NN NN NNS,sd h,ad
+show me the trailer,VB PRP DT NN,^h aap_am,ad
+ignore other command,RB JJ NNS,sv aa,ad
+increase the volume,VB DT NN,qy qw,ad
+decrease the volume,VB DT NN,sd qw,ad
+buy a thankpad it is amazing,VB DT NN PRP VBZ VBG,h aap_am,ad
+show mercy to the captive,NN NN TO DT NNS,qy ^h,ad
+do not do what you should not do,VB RB VB WP PRP MD RB VB,ba ad,ad
+do not do what you shouldnt do,VB RB VB WP PRP VBP VB,ad aa,ad
+show me the tv gui woulde,VB PRP DT NN NN NN,h aap_am,ad
+set the ti amer for me,VB DT NN NN IN PRP,qy aap_am,ad
+do not listen to a word i say,VB RB VB TO DT NN NN VBP,aa sd,ad
+cancel the pizza ti amer,VB DT NN NN NN,ba h,ad
+stop giving me the creep,NN VBG PRP DT NNS,sv ^h,ad
+please end the call,VB VB DT NN,ba aap_am,ad
+tell everyone goodnight i will see everyone early tomorrow,VB NN NN NN MD VB NN JJ NN,ba ^h,ad
+tell everyone goodnight ill see everyone early tomorrow,VB NN NN VB VB NN JJ NN,aa ad,ad
+help me help me,VB PRP VB PRP,aa sd,ad
+somebody help me,NN VB PRP,^h ad,ad
+save me from alexa,VB PRP IN NN,qw qy,ad
+send message to google from alexa,JJ NN TO VB IN NN,aa ^h,ad
+please do not take the train tonight,VB VB RB VB DT NN NN,aa sd,ad
+order the bag of fertilzer,NN DT NNS IN NN,^h aap_am,ad
+buy the bag of seed,VB DT NN IN NN,h qy,ad
+fetch the hardest stick you can find,VB DT JJS NN PRP MD VB,sd ^h,ad
+irrigate the field for me,VB DT NNS IN PRP,aap_am qy,ad
+tell the truth,VB DT NN,ad ^h,ad
+plow the lawn if you have ti ame,IN DT NN IN PRP VBP VBN NN,ba qw,ad
+sing a song if you know any,VBG DT NN IN PRP VBP DT,h aa,ad
+hum to the next song you hear,NN TO DT JJ NN PRP VBP,aa h,ad
+update my calendar with the last meeting discussion,JJ PRP$ NN IN DT JJ NN NN,aap_am h,ad
+please check the oven in five minute,VB VB DT NN IN CD NNS,qy qw,ad
+drive away without saying goodbye,VB RP IN VBG NN,h aap_am,ad
+tell me the truth,VB PRP DT NN,qw ba,ad
+serve your guest some good food else they wont come back,VB PRP$ NNS DT JJ NN RB PRP VBP VB RB,sd sv,ad
+remember to wash your sheet,VB TO VB PRP$ NNS,aa h,ad
+open the door for me,VB DT NN IN PRP,aap_am qy,ad
+open up the fri wouldge,VB RP DT NN NN,sv qy,ad
+unlock my phone,JJ PRP$ NN,sd aa,ad
+come to my house when you can,NN TO PRP$ NN WRB PRP MD,ad sd,ad
+come play super smash with me,VBN NN JJ NN IN PRP,ba qw,ad
+take me back to switzerland,VB PRP RB TO VB,^h sd,ad
+take me to my bedroom,VB PRP TO PRP$ NN,sd h,ad
+make me some swiss fondue for dinner,VB PRP DT JJ NN IN NN,^h aap_am,ad
+bake me a cake now,VB PRP DT NN RB,sd aap_am,ad
+come to my party,NN TO PRP$ NN,^h h,ad
+do not eat too much,VB RB VB RB JJ,qw aa,ad
+go straight ahead then turn left,VB RB RB RB VB RP,ba qw,ad
+wake up now,VB RP RB,h sv,ad
+do not panic,VB RB VB,sv aap_am,ad
+get the flag quickly,VB DT NN RB,ad sd,ad
+keep off the grass,VB RP DT NN,aa qw,ad
+park your car here,VB PRP$ NN RB,qw sv,ad
+remove your shoe,VB PRP$ NNS,h ad,ad
+post those letter,NN DT NNS,aap_am sv,ad
+pay attention,NN NN,h ba,ad
+take an asprin,VB DT NN,qy aa,ad
+do not let your dad know,VB RB VB PRP$ NNS VBP,sd sv,ad
+do not let your mom know,VB RB VB PRP$ NN VBP,ba qw,ad
+let it bleed,VB PRP VB,ba aa,ad
+let it hurt,VB PRP VB,ad sv,ad
+let it heal,VB PRP VB,^h qy,ad
+read the text aloud,VB DT NN NN,aa h,ad
+stand up when you are on the ground,VB RP WRB PRP VBP IN DT NN,ba qy,ad
+drink a beer with me,VB DT NN IN PRP,sd aap_am,ad
+come please,VB NN,ba aap_am,ad
+do not eat so much,VB RB VB RB JJ,aap_am qy,ad
+believe me,VB PRP,aa ba,ad
+dont stop me now,NN VB PRP RB,ad h,ad
+eat your veggie ,VB PRP$ NNS VBP,qw aap_am,ad
+stop and go,NN CC VB,ad h,ad
+dont touch me,NN VB PRP,h ad,ad
+buy a dog,VB DT NN,qy h,ad
+pas through the intersection and take a right in 2 mile,NN IN DT NN CC VB DT NN IN CD NNS,ad h,ad
+change your clothes after playing outside,VB PRP$ NNS IN VBG JJ,h ad,ad
+play ball,NN NN,aap_am h,ad
+give me a few week i will get back to you when i have time,VB PRP DT JJ NNS VBP MD VB RB TO PRP WRB NNS VBP NN,aa ba,ad
+be nice,VB JJ,ad ba,ad
+believe me ,VB PRP VB,qy h,ad
+i would be grateful if you did not tell anyone about this,NN MD VB JJ IN PRP VBD RB VB NN IN DT,qy aap_am,ad
+save ferris,VB NN,sv qy,ad
+get out,VB RP,sv h,ad
+just do it,RB VB PRP,sv ^h,ad
+buy one and save 50% on your next purchase,VB CD CC VB CD IN PRP$ JJ NN,h aa,ad
+do not eat my grape ,VB RB VB PRP$ NNS VBP,^h aa,ad
+remember to wash under your armpit,VB TO VB IN PRP$ NNS,aap_am ba,ad
+consider the red dress,VB DT JJ NN,aa aap_am,ad
+watch the video and report back,VB DT NNS CC NN RB,ad ^h,ad
+dont take thing too seriously,NNS VBP NNS RB RB,sv qw,ad
+be careful,VB JJ,ba sv,ad
+let take a walk on the wild side,NNS VBP DT NN IN DT JJ NN,ad sv,ad
+silence,NN,sv qy,ad
+dream big,NN JJ,qw sd,ad
+dont text me,NN IN PRP,h qy,ad
+do not beat him,VB RB VB PRP,qw ^h,ad
+do not kill,VB RB VB,sv h,ad
+do not waste your time,VB RB VB PRP$ NN,ba ^h,ad
+go to the edge of the cliff,VB TO DT NN IN DT NN,qw h,ad
+jump off build your own wing on the way down,NN RP VB PRP$ JJ NNS IN DT NN RP,qy ad,ad
+stand up,VB RP,aa qy,ad
+please tidy up your room,NN VB RP PRP$ NN,ba ad,ad
+dont steal the cooky from the cookie jar,NN VB DT NNS IN DT NN NN,aa qw,ad
+pay me,VB PRP,aa ad,ad
+run fast,VB RB,qy sv,ad
+come and celebrate the festivies before the night of the dance with me,NN CC VB DT NNS IN DT NN IN DT NN IN PRP,h ad,ad
+dont forget me,NN VB PRP,aa sd,ad
+relax,NN,sd ad,ad
+dont look back,NN NN RB,ba qw,ad
+hurry,NN,qy aap_am,ad
+hurry up,NN RP,qy aap_am,ad
+help me,VB PRP,qw ^h,ad
+try again next time,VB RB JJ NN,aa qy,ad
+turn around in 300 meter,NN RP IN CD NNS,qy qw,ad
+play the song alive by ima robot,VB DT NN JJ IN JJ NN,sd qy,ad
+stay alive and avoid zombie,NN JJ CC JJ NNS,qy sd,ad
+always remember the person who ha been nice to you ,RB VB DT NN WP VBZ VBN JJ TO PRP VB,ad sv,ad
+promise me,VB PRP,aap_am sv,ad
+stop,NN,^h sv,ad
+raid the berber people,VB DT NN NNS,aap_am qw,ad
+halt,NN,ba qy,ad
+set the temperature 1 degree higher,VB DT NN CD NN JJR,qw ba,ad
+meet me outside the venue,VB PRP IN DT NN,ad ^h,ad
+enjoy life,JJ NN,sv ba,ad
+skip song,NN NN,^h aa,ad
+look away,VB RP,h ba,ad
+do not work alone on the assignment,VB RB VB RB IN DT NN,sd ad,ad
+consider the lily,VB DT NN,h qy,ad
+do not tease him,VB RB VB PRP,qw qy,ad
+set the temperature to 80,VB DT NN TO CD,sd qw,ad
+swing wide,VBG JJ,qw aap_am,ad
+work hard,NN RB,qw ba,ad
+continue to work with the faith that unearned suffering is redemptive,NN TO VB IN DT NN WDT VBD NN VBZ JJ,ba aap_am,ad
+run faster,NN RBR,aa h,ad
+be there at 4am,VB EX IN CD,aap_am sv,ad
+call me after 10am,VB PRP IN CD,ba qw,ad
+tell her you did not do it,VB PRP$ PRP VBD RB VB PRP,sd qy,ad
+turn right in 500 foot,NN NN IN CD NNS,ba qy,ad
+stop that,NN IN,aap_am qy,ad
+get lost,NN VBD,^h qw,ad
+keep an eye on the time,VB DT NN IN DT NN,qy aa,ad
+stay ahead,NN RB,ba qw,ad
+do not u-turn,VB RB VB,sv aa,ad
+turn right in 200 foot,NN NN IN CD NNS,sv qw,ad
+crouch under the wall then slide under,JJ IN DT NN RB VB IN,aap_am aa,ad
+remind me in 10 day to email austin,VB PRP IN CD NNS TO VB NN,h aap_am,ad
+go,VB,sd aa,ad
+walk for the minimum,NN IN DT NN,sv h,ad
+clean the sidewalk,VB DT NN,aap_am qy,ad
+please go and meet me at the middle of the dance floor after you perform your song,NN VB CC VB PRP IN DT NN IN DT NN NN IN PRP VBP PRP$ NN,h ad,ad
+come around and see me some time,VBN IN CC VB PRP DT NN,h sv,ad
+get to bed on time,VB TO VB IN NN,h qy,ad
+work fast,NN RB,ad qw,ad
+sleep well,RB RB,aa sd,ad
+take a taxi,VB DT NN,sd ba,ad
+find the lost treasure ,VB DT JJ NN NN,qw aap_am,ad
+go back to south carolina go back to georgia ,VB RB TO VB NN VB RB TO VB NN,h sv,ad
+clap,NN,h ba,ad
+run,VB,^h ba,ad
+please tidy your room,VB VB PRP$ NN,ad aa,ad
+let is eat,NN VBZ VB,h ba,ad
+find document from june 1st on,NN NNS IN NN CD IN,ba sd,ad
+improve yourself or kiss yourself goodbye,VB PRP CC VB PRP VB,sv h,ad
+shut up brain or i will stab you with a q-tip,VBN RP NN CC NN MD VB PRP IN DT JJ,^h qy,ad
+complete the model validation,VB DT NN NN,qy sd,ad
+please clap,NN NN,sv sd,ad
+oh behave,NNS VBP,aa h,ad
+find document from may 2017,NN NNS IN MD VB,qw sv,ad
+sit closer,NN NN,ad ba,ad
+suprise me,VB PRP,h qy,ad
+write an email to kim saying this is not a test of the emergency broadcast system,VB DT NN TO VB VBG DT VBZ RB DT NN IN DT NN NN NN,aap_am ^h,ad
+let him cool down then ask about the incident,VB PRP VB RP RB VB IN DT NN,qw sd,ad
+paint a big wide smile,NN DT JJ JJ NN,sd ad,ad
+let me go,VB PRP VB,aap_am sd,ad
+preheat the oven to 325,NN DT NN TO CD,aa sd,ad
+launch edge,NN NN,ba aap_am,ad
+dont talk,NN NN,aa sv,ad
+tell me a holidy limerick,VB PRP DT NN NN,ad ba,ad
+buy me some time,VB PRP DT NN,sv qw,ad
+launch ie6,NN NN,sv aap_am,ad
+create a new account if you are hacked,VB DT JJ NN IN PRP VBP VBN,aap_am h,ad
+shout loud,NN NN,h qw,ad
+roll over,NN IN,ad qy,ad
+beam u up,NN PRP RP,aap_am ad,ad
+swing the golf club harder next time,VBG DT NN NN RBR JJ NN,sd aap_am,ad
+unmute,NN,aa qy,ad
+shut up,VBN RP,^h qy,ad
+louder,NN,sv qw,ad
+softer,NN,ba sd,ad
+mute,NN,aap_am ad,ad
+show me movie time,VB PRP NN NNS,sv qw,ad
+add the item to the shopping list,VB DT NNS TO DT NN NN,ad sv,ad
+show me the tv guide,VB PRP DT NN NN,^h sd,ad
+set the timer for me,VB DT NN IN PRP,sv aa,ad
+cancel the pizza timer,VB DT NN NN,ad sv,ad
+set a repeating alarm for weekday at 9am,VB DT JJ NN IN NNS IN CD,aa qy,ad
+end my call,VB PRP$ NN,ad ^h,ad
+call jenny,NN NN,h aap_am,ad
+plow the lawn if you have time,IN DT NN IN PRP VBP NN,qy qw,ad
+open up the fridge,VB RP DT NN,qw sd,ad
+let u go,VB PRP VB,qy sd,ad
+let is do it,NN VBZ VB PRP,^h aa,ad
+let it go,VB PRP VB,aap_am ^h,ad
+come on,VBN IN,aa qw,ad
+get on the plane,VB IN DT NN,qw ^h,ad
+please get on the plane,VB VB IN DT NN,aa ad,ad
+clean your room,JJ PRP$ NN,h ad,ad
+answer the phone,VB DT NN,aa ad,ad
+help me carry these box up the stair,VB PRP VB DT NNS RP DT NNS,qw sd,ad
+get out of bed,VB IN IN NN,qy h,ad
+walk down the street for two block,VB IN DT NN IN CD NNS,h qw,ad
+do not smoke,VB RB VB,qw ^h,ad
+do not forget to call me after work,VBP RB VB TO VB PRP IN NN,aap_am sd,ad
+do not take the highway,VB RB VB DT NN,^h aa,ad
+do not park your car on the grass please,VB RB VB PRP$ NN IN DT NN NN,qw qy,ad
+do not use too many plastic bag,VB RB VB RB JJ NN NNS,qw ^h,ad
+lets go to the park for a picnic,NN VBP TO DT NN IN DT NN,^h h,ad
+lets finish this project before lunch,JJ NN DT NN IN NN,qw ^h,ad
+lets go to the supermarket,NN VBP TO DT NN,qy ba,ad
+lets get married,NN NN VBD,sv ad,ad
+lets not have chicken for dinner again,NN RB VB VBN IN NN RB,ad aa,ad
+lets not watch television tonight,NN RB VB NN NN,sv aap_am,ad
+lets not worry about that,NN RB VB IN DT,ad qw,ad
+lets not ask ask angela about her thesis,NN RB VB NN NN IN PRP$ NN,ad ba,ad
+lets not play tennis together again,NN RB VB NN RB RB,sd qy,ad
+leave it alone,VB PRP RB,sv sd,ad
+lets do it,NN VBP PRP,^h sd,ad
+follow me,VB PRP,^h aap_am,ad
+keep it up,VB PRP RP,sv ba,ad
+be quiet,VB JJ,aap_am aa,ad
+do not move,VB RB VB,ad aa,ad
+do not stand,VB RB VB,ad sd,ad
+wait,NN,h ba,ad
+hold it,VB PRP,aap_am ^h,ad
+fall in,NN IN,aap_am aa,ad
+attention,NN,qy ad,ad
+rest ,NN NN,aap_am qy,ad
+remember to pick up the dry cleaning today,VB TO VB RP DT JJ NN NN,h aap_am,ad
+leave the book under my doormat,VB DT NN IN PRP$ NN,ba ^h,ad
+you need to put your phone away,PRP VBP TO VB PRP$ NN RB,sd qw,ad
+please open with care,VB JJ IN NN,ba sv,ad
+ask the teacher about last night’s homework,VB DT NN IN JJ JJ NN,aap_am ^h,ad
+call me,VB PRP,ad ba,ad
+do not touch the thermostat,VB RB VB DT NN,ad aap_am,ad
+never judge someone before knowing their story,RB NN NN IN VBG PRP$ NN,aa ba,ad
+stop making that noise,VB NN WDT NN,qy sd,ad
+make sure you understand why we do this exercise,VB JJ PRP VBP WRB PRP VBP DT NN,qw sd,ad
+please do not spoil the movie,VB VB RB VB DT NN,ad aap_am,ad
+turn off the light,VB RP DT NNS,qw ^h,ad
+please turn off the light,VB VB RP DT NNS,ba sv,ad
+please seat our party near the window,VB VB PRP$ NN IN DT NN,aa ^h,ad
+call your sister on friday,VB PRP$ NN IN NN,sd aa,ad
+please pas the salt,VB VB DT NN,aap_am ^h,ad
+stop cry and do something about it,VB NN CC VB NN IN PRP,qy aap_am,ad
+соme here,NN RB,qw h,ad
+do not be silly,VB RB VB RB,sv ad,ad
+let’s go at once,NN VBP IN RB,sd ba,ad
+close the window,RB DT NN,ad aap_am,ad
+соmе and see me,NN CC VB PRP,^h aa,ad
+pas me the salt,NN PRP DT NN,aap_am sd,ad
+and do not you forget it,CC VB RB PRP VBP PRP,ba aa,ad
+let him learn it by heart,VB PRP VB PRP IN NN,sd h,ad
+go fucking away,VB VBG RB,h aap_am,ad
+do not tell about it,VB RB VB IN PRP,aap_am h,ad
+do not be late,VB RB VB RB,sd aap_am,ad
+give me that,VB PRP IN,ad aa,ad
+do it better,VBP PRP RBR,^h aa,ad
+follow the rule,VB DT NNS,ba ad,ad
+visit school,NN NN,ba ad,ad
+turn right for cooky,NN NN IN NNS,aap_am ^h,ad
+pull up me there,VB RP PRP EX,sv ba,ad
+do not miss this match,VB RB VB DT NN,qw h,ad
+mess with him,NN IN PRP,sd ba,ad
+do this exercise every day,VB DT NN DT NN,^h aa,ad
+pick up your rubbish,VB RP PRP$ NN,ba qy,ad
